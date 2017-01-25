@@ -135,7 +135,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
 }
 
 .logo {
-    font-family: llxb;
+    font-family: "museo-slab",serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 500;
@@ -181,7 +181,7 @@ nav .gallery-title a:hover {
 
 nav .gallery-title a {
     color: #c3c3c3;
-    font-family: llxb;
+    font-family: "museo-slab",serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 300;
@@ -462,7 +462,7 @@ html {
 .project-cover .title {
     color: #cccccc;
     float: none;
-    font-family: llxb;
+    font-family: "museo-slab",serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 300;
@@ -489,7 +489,7 @@ html {
 .project-cover .date {
     color: #bbbbbb;
     float: none;
-    font-family: llxb;
+    font-family: "museo-slab",serif;
     font-size: 12px;
     font-style: normal;
     font-weight: 700;
@@ -604,7 +604,7 @@ a:active, a:focus, a:hover {
 
 .custom-header .title {
     color: #444444;
-    font-family: llxb;
+    font-family: "museo-slab",serif;
     font-size: 60px;
     font-style: normal;
     font-weight: 300;
