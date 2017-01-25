@@ -1,0 +1,28 @@
+.site-header {
+    background-color: rgb(243, 243, 242);
+    background-image: url(https://pro2-bar-s3-cdn-cf.myportfolio.com/2bd7a954d74e93ddb4bcdead0b64229f…11474530aae5_rwc_0x0x3451x2699x3451.png?h=96b98df11bf5d4533d4d1de2cd77d314);
+    background-size: cover;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    padding-bottom: 102px;
+    padding-top: 102px;
+    width: 100%;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.site-wrap, .site-container {
+    position: relative;
+    width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.logo-text {
+  font-family: "museo-slab",serif;
+}
