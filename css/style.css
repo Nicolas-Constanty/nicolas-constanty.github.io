@@ -817,6 +817,12 @@ img {
     border: 0;
 }
 
+.project img, .project object {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
 .modules .image {
     margin-left: auto;
     margin-right: auto;
