@@ -531,3 +531,215 @@ a:active, a:focus, a:hover {
         margin-right: 5%;
     }
 }
+
+@media (max-width: 768px)
+{
+    .project-cover:nth-child(3n+1) {
+        clear: none;
+    }
+}
+
+@media (max-width: 540px)
+{
+    .project-cover {
+        margin-right: 0 !important;
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px)
+{
+    .site-header {
+        padding: 40px 5%;
+    }
+}
+
+@media (max-width: 540px)
+{
+    .site-header {
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+}
+
+@media (max-width: 768px)
+{
+    nav {
+        display: none;
+        padding: 0;
+        width: 100%;
+    }
+}
+
+.custom-container {
+    width: 100%;
+}
+
+.custom-container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1400px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.custom {
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+}
+
+.custom-header {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    width: 100%;
+}
+
+.custom-header .title {
+    margin: 0 auto;
+}
+
+.custom-header .title {
+    color: #444444;
+    font-family: llxb;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 70px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-transform: none;
+    width: 100%;
+    font-family: "museo-slab",serif;
+}
+
+.project-module {
+    clear: both;
+}
+
+.modules .form {
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.project-module-form {
+    float: none;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    max-width: 500px;
+    width: 100%;
+}
+
+.modules .form label {
+    display: block;
+}
+
+.project-module-form label {
+    color: #333333;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 14px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    text-align: left;
+    text-transform: none;
+}
+
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+
+input {
+    line-height: normal;
+}
+
+.modules .form textarea {
+    height: 132px;
+    padding-bottom: 13px;
+    padding-top: 13px;
+}
+
+.modules .form input, .modules .form textarea, .modules .form .submit-button {
+    border-style: solid;
+    border-width: 1px;
+    outline: none;
+}
+
+.modules .form input, .modules .form textarea {
+    -webkit-appearance: none;
+    border-radius: 3px;
+    padding-right: 10px;
+    width: 100%;
+}
+
+.modules .form input {
+    height: 42px;
+    line-height: 42px;
+}
+
+.project-module-form input, .project-module-form textarea {
+    background-color: #ffffff;
+    border-color: #dddddd;
+    color: #333333;
+    font-family: arial;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 30px;
+    margin-top: 0px;
+    padding-left: 10px;
+    text-align: left;
+    text-transform: none;
+}
+
+.modules .form input, .modules .form textarea, .modules .form .submit-button {
+    border-style: solid;
+    border-width: 1px;
+    outline: none;
+}
+
+.modules .form .submit-button {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    user-select: none;
+    width: auto;
+}
+
+.project-module-form .submit-button {
+    border-radius: 5px;
+    color: #333333;
+    font-family: arial;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-transform: none;
+    border: 1px solid rgba(51, 51, 51, 0.6);
+}
+
+.modules .form .contact-form-sent {
+    display: none;
+}
+
+.project-module-form .contact-form-sent {
+    color: #333333;
+    font-family: arial;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    text-transform: none;
+}
