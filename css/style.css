@@ -837,3 +837,81 @@ img {
     content: "";
     display: table;
 }
+
+.download-text
+{
+    color: #888888;
+    font-family: "museo-slab",serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-transform: none;
+    width: 100%;
+    display: block;
+}
+
+.download-text:hover
+{
+    color: #444444;
+}
+
+.back-to-top {
+    clear: both;
+    display: block;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.back-to-top a {
+    color: #999999;
+    font-family: "museo-slab",serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 18px;
+    text-transform: normal;
+}
+
+.back-to-top .arrow {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.site-footer, .site-footer a {
+    color: #dddddd;
+}
+
+.site-footer {
+    clear: both;
+    display: block;
+}
+
+.site-footer {
+    font-family: "museo-slab",serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 18px;
+    padding-bottom: 60px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 60px;
+    text-align: center;
+    text-transform: none;
+    width: 100%;
+}
+
+.cfix:after {
+    clear: both;
+    content: ' ';
+    display: block;
+    height: 0;
+    line-height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
