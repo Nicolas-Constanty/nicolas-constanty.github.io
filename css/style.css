@@ -904,6 +904,9 @@ img {
     text-align: center;
     text-transform: none;
     width: 100%;
+    position: fixed;
+    bottom: 0px;
+    padding-right: 10%;
 }
 
 .cfix:after {
@@ -914,4 +917,8 @@ img {
     line-height: 0;
     overflow: hidden;
     visibility: hidden;
+}
+
+.custom-content {
+  text-align: center;
 }
