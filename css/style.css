@@ -904,9 +904,6 @@ img {
     text-align: center;
     text-transform: none;
     width: 100%;
-    position: fixed;
-    bottom: 0px;
-    padding-right: 10%;
 }
 
 .cfix:after {
