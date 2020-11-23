@@ -15,6 +15,11 @@ Cons & Truct est un jeu de coopération où les joueurs doivent communiquer pour
 
 ***
 
+### Gameplay
+<iframe src="https://www.youtube.com/embed/NmZTvgSJ8zU" frameborder="0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
 ### Controls
 * Build (P1): E / RB
 * Throw (P1): A / LB

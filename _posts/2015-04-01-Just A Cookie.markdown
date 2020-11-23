@@ -13,4 +13,9 @@ Dans ce "point and clic" le joueur incarne une mamie tueuse de scout. Le but du 
 
 ***
 
+### Gameplay
+<iframe src="https://www.youtube.com/embed/jtBfTWxpOgY" frameborder="0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
 ### Controls

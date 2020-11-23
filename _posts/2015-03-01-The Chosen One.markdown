@@ -13,4 +13,9 @@ Dans ce runner 1 contre 1 le joueur contrôlant le stickman doit survivre le plu
 
 ***
 
+### Gameplay
+<iframe src="https://www.youtube.com/embed/AgwvrgKYIEE" frameborder="0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
 ### Controls

@@ -14,4 +14,9 @@ Le joueur peu aussi récupérer trois étoiles par niveau pour plus de défi.
 
 ***
 
+### Gameplay
+<iframe src="https://www.youtube.com/embed/ZQJpYJjV-UU" frameborder="0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
 ### Controls
