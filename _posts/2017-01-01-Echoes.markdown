@@ -1,0 +1,19 @@
+---
+layout: post
+title: Echoes
+date: 2017-01-01 15:28:48 +0300
+image: 00_720p.jpeg
+coverSrc: 00.png
+thumbnail: 00_432p.jpeg
+tags: ['2D', 'Solo', 'Puzzle/Plateformer']
+---
+Echoes is a puzzle game in which the player must go from present to past to advance in the plot.
+
+Echoes est un jeu de réflexion dans lequel le joueur doit passer du présent au passé pour avancer dans l'intrigue.
+
+***
+
+### Controls
+* Move: Left & Right arrows
+* Jump: Space
+* Interaction: E

@@ -1,0 +1,18 @@
+---
+layout: post
+title: LD46
+date: 2020-11-12 15:28:48 +0100
+image: 
+coverSrc: 
+thumbnail: 
+tags: ['Top Down', 'Arcade', 'Local Multiplayer', 'Versus']
+---
+
+
+
+
+***
+
+### Controls
+* Move: left stick
+* Look: Right stick

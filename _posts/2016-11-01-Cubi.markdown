@@ -1,0 +1,19 @@
+---
+layout: post
+title: Cubi
+date: 2016-11-01 15:28:48 +0300
+image: 00_720p.jpeg
+coverSrc: 00.png
+thumbnail: 00_432p.jpeg
+tags: ['2D', 'Local Mutliplayer (4 Players)']
+---
+Cubi is a multiplayer runner who plays up to four players. Each participant can collect bonuses to turn the map, shoot a missile or protect themselves by closing the hatch. The player must jump towards the center to avoid obstacles, as an example the top player uses the down arrow to jump.
+
+Cubi est un 'runner' multijoueur qui ce joue jusqu'à quatre joueurs. Chaque participant peut collecter des bonus pour faire tourner la carte, tirer un missile ou se protéger en fermant la trappe. Le joueur doit sauter vers le centre pour éviter les obstacles, par exemple le joueur supérieur utilise la flèche vers le bas pour sauter.
+
+***
+
+### Controls
+* Jump: The arrow toward the center (in this image blue up arrow, green left arrow, purple down arrow, orange right)
+* Rotate left: L1
+* Rotate right: R1

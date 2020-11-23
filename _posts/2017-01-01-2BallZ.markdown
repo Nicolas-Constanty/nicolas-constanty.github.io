@@ -1,0 +1,18 @@
+---
+layout: post
+title: 2BallZ
+date: 2017-01-01 15:28:48 +0300
+image: 00_720p.jpeg
+coverSrc: 00.png
+thumbnail: 00_432p.jpeg
+tags: ['3D', 'Local/Online Mutliplayer', 'Versus']
+---
+2BallZ is a 1 vs 1 game, where the goal is to hit the enemy to become the leader. The leader must escape the other player for two minutes to win the game.
+
+2BallZ est un jeu 1 contre 1, où le but est de frapper l'ennemi pour devenir le leader. Le leader doit échapper à l'autre joueur pendant deux minutes pour gagner la partie.
+
+***
+
+### Controls
+* Move: Left stick
+* Dodge: B

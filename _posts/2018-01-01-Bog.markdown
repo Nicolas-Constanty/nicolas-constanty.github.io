@@ -1,0 +1,20 @@
+---
+layout: post
+title: Bog
+date: 2018-01-01 15:28:48 +0300
+image: 
+coverSrc: 
+thumbnail: 
+tags: ['2.5 D', 'Solo', 'Plateformer']
+---
+
+
+
+
+***
+
+### Controls
+* Build (P1): E / RB
+* Throw (P1): A / LB
+* Build (P2): A / LB
+* Throw (P2): E / RB
