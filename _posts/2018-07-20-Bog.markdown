@@ -1,0 +1,38 @@
+---
+layout: post
+title: Bog
+date: 2018-07-20 15:28:48 +0300
+image: 00_720p.jpeg
+coverSrc: 00.png
+thumbnail: 00_432p.jpeg
+tags: ['2.5 D', 'Solo', 'Plateformer']
+event: POT-AU-JEU
+websiteName: Game Jam POT-AU-JEU
+websiteUrl: https://babiole.itch.io/bog
+---
+Bog is a Inside like. The player embodies Bog a character lost alone in a dark and austere world. You have to solve puzzles to understand his world.
+
+Bog est un platformer 2.5 style Inside. Le joueur incarne Bog un personnage perdu seul dans un monde sombre et austère. Il doit venir à bout d'énigmes pour avancer dans l'histoire.
+
+***
+
+### Gameplay
+<iframe src="https://www.youtube.com/embed/iHgH-QEHGvA" frameborder="0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
+### Controls
+* Build (P1): E / RB
+* Throw (P1): A / LB
+* Build (P2): A / LB
+* Throw (P2): E / RB
+
+***
+
+### Downloads
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dQK5QFhiQRFD0Frw?e=VhHu03">Windows (143.83 Mb)</a></p>
+
+***
+
+### Team
+* [Nicolas Constanty](https://fr.linkedin.com/in/nicolas-constanty-653232113) - Developer Unity3D

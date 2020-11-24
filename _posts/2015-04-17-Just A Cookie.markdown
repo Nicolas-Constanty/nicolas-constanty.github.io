@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Just A Cookie
-date: 2015-04-01 15:28:48 +0100
+date: 2015-04-17 15:28:48 +0100
 image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
 tags: ['2D', 'Solo', 'Point & Click']
+event: Ludum Dare #32
+websiteName: Ludum Dare 32
+websiteUrl: http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=52698
 ---
 In this "point and click" the player embodies a scout killer granny. The object of the game is to collect three different items in order to craft a MacGyver-style weapon using her workbench. Ten delusional weapon combinations are available.
 

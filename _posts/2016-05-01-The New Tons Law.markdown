@@ -6,6 +6,7 @@ image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
 tags: ['2D', 'Solo', 'Puzzle/Plateformer']
+event: GCJ 2016 (The Law)
 ---
 In this 2D platformer, the player must use a gravity gun in order to bypass obstacles. Be careful the number of ammo is limited in each level.
 

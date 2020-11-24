@@ -33,6 +33,9 @@ layout: default
   {% if page.image %}
     <div class="post__head">
       <a class="post-image" style="background-image: url({{site.baseurl}}/images/{{page.title | uri_escape}}/{{page.image}})" href="{{site.baseurl}}/images/{{page.title}}/{{page.coverSrc}}"></a>
+      {% if page.website %}
+      <p style="text-align: center; margin-top: 10px; margin-bottom: 0px;"><a href="{{page.websiteUrl}}">{{page.websiteName}}</a></p>
+      {% endif%}
     </div>
   {% else %}
     {% assign no-image = 'post-no-image' %}

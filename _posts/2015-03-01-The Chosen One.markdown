@@ -6,6 +6,7 @@ image: 00_720p.jpeg
 coverSrc: 00.jpg
 thumbnail: 00_432p.jpeg
 tags: ['2D', 'Local Multiplayer', 'Versus', 'Runner']
+event: GCJ 2015 (Power to the players)
 ---
 In this 1 on 1 runner, the player controlling the stickman must survive as long as possible against player 2. Player 2 can place cubes on the map in order to block player 1 in his run.
 

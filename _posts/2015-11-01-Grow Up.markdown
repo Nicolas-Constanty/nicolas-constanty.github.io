@@ -6,6 +6,7 @@ image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
 tags: ['3D', 'Solo', 'Strategy']
+event: Bordeaux Jam #2 (The nature stands up)
 ---
 In this strategy game the player controls the nature and must succeed in retaking possession of the whole map.
 

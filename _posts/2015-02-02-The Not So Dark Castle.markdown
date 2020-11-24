@@ -6,6 +6,7 @@ image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
 tags: ['2D', 'Solo', 'Puzzle', 'Plateformer']
+event: Game Dev Camp (Shadow)
 ---
 In this little 2D game, the player must find the way out of the level with the help of his wispy companion. Will-o'-the-wisp can cross places which the player cannot pass, such as gates or ravines.
 

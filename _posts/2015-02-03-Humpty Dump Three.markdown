@@ -6,6 +6,7 @@ image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
 tags: ['2D', 'Solo', 'Plateformer', 'Focus']
+event: Game Dev Camp
 ---
 The player controls three small stacked figures, the goal is to reach the end of the level keeping these last three aligned. The player can also collect three stars per level for more challenge.
 

@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Cons & Truct
-date: 2019-01-01 15:28:48 +0300
+date: 2019-01-27 15:28:48 +0300
 image: CaptureCons&Truct_720p.jpeg
 coverSrc: CaptureCons&Truct.png
 thumbnail: CaptureCons&Truct_432p.jpeg
 tags: ['2D', 'Coop', 'Arcade']
+event: Global Game Jam 2019
+websiteName: Global Game Jam 2019
+websiteUrl: https://globalgamejam.org/2019/games/cons-truct
 ---
 Help Cons & Truct to build the house of their dream in the given time. But be careful not to go too fast, some bricks can not be assembled and will be automatically destroyed causing you to lose valuable seconds.
 Cons & Truct is a cooperation game where players must communicate to assemble the maximum of bricks in the minimum of time.
@@ -40,4 +43,4 @@ Cons & Truct est un jeu de coopération où les joueurs doivent communiquer pour
 * [Fernand Veyrier](https://www.linkedin.com/in/fernand-veyrier-26372596/) - Developer Unity3D
 * [Nicolas Constanty](https://fr.linkedin.com/in/nicolas-constanty-653232113) - Developer Unity3D
 * [Quentin Gasparotto](https://www.linkedin.com/in/quentin-gasparotto/?originalSubdomain=fr) - Game Designer
-* [Louise Jandot Dit Danjou]() - Graphist
+* Louise Jandot Dit Danjou - Graphist
