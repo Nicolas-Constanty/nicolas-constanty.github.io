@@ -6,7 +6,7 @@ image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
 tags: ['3D', 'Solo', "Hack 'n' Slash"]
-event: Ludum Dare #35
+event: Ludum Dare 35
 websiteName: Ludum Dare 35
 websiteUrl: http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=85713
 ---

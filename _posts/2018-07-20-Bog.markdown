@@ -7,7 +7,7 @@ coverSrc: 00.png
 thumbnail: 00_432p.jpeg
 tags: ['2.5 D', 'Solo', 'Plateformer']
 event: POT-AU-JEU
-websiteName: Game Jam POT-AU-JEU
+websiteName: itch.io - POT-AU-JEU
 websiteUrl: https://babiole.itch.io/bog
 ---
 Bog is a Inside like. The player embodies Bog a character lost alone in a dark and austere world. You have to solve puzzles to understand his world.

@@ -6,7 +6,7 @@ image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
 tags: ['2D', 'Versus', 'Plateformer']
-event: Ludum Dare #33
+event: Ludum Dare 33
 websiteName: Ludum Dare 33
 websiteUrl: http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=56369
 ---

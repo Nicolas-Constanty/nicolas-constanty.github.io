@@ -6,7 +6,7 @@ image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
 tags: ['3D', 'Local/Online Mutliplayer', 'Versus']
-event: Bordeaux Jam #4
+event: Bordeaux Jam 4
 ---
 2BallZ is a 1 vs 1 game, where the goal is to hit the enemy to become the leader. The leader must escape the other player for two minutes to win the game.
 

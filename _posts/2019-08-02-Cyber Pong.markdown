@@ -7,7 +7,7 @@ coverSrc: 00.png
 thumbnail: 00_432p.jpeg
 tags: ['Top Down', 'Local Multiplayer', 'Versus']
 event: Crée le jeu
-websiteName: Crée le jeu
+websiteName: itch.io - Crée le jeu
 websiteUrl: https://babiole.itch.io/cyberpong
 ---
 Cyberpong is a local versus game, the goal is to hit your opponent with the ball.

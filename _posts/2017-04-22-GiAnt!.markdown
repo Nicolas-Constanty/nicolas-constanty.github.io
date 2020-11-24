@@ -5,8 +5,8 @@ date: 2017-04-22 15:28:48 +0100
 image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
-tags: ['3D', 'Solo', "Hack 'n' Slash"]
-event: Ludum Dare #38
+tags: ['3D', 'Solo', 'Point & Click']
+event: Ludum Dare 38
 websiteName: Ludum Dare 38
 websiteUrl: https://ldjam.com/events/ludum-dare/38/games
 ---
