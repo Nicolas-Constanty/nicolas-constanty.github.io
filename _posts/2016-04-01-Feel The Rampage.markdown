@@ -18,4 +18,12 @@ Première expérimentation d'un jeu 3D.
 
 ***
 
-### Controls
+### Downloads
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNP8fJX0_XcK3PE1g?e=Kef0UU">Windows (79.63 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNQnYte5OsYWPMY7w?e=NfOCux">Linux (88.33 Mb)</a></p>
+
+***
+
+### Team
+* [Fernand Veyrier](https://www.linkedin.com/in/fernand-veyrier-26372596/) - Developer Unity3D
+* [Nicolas Constanty](https://fr.linkedin.com/in/nicolas-constanty-653232113) - Developer Unity3D

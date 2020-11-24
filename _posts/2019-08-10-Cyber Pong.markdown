@@ -21,3 +21,13 @@ Cyberpong est un jeux de versus en local, le but est de toucher votre adversaire
 ### Controls
 * Move: left stick
 * Look: Right stick
+
+***
+
+### Downloads
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfMbT6TRgo5wPUovUw?e=PCJoLb">Windows (83.99 Mb)</a></p>
+
+***
+
+### Team
+* [Nicolas Constanty](https://fr.linkedin.com/in/nicolas-constanty-653232113) - Developer Unity3D & Artistic Direction

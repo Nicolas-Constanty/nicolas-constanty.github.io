@@ -17,3 +17,16 @@ Dans ce jeu de plateforme 2D, le joueur doit utiliser un pistolet à gravité af
 * Move: Left & Rigth arrow
 * New force field: Rigth clic
 * Expends force field: Scroll wheel
+
+***
+
+### Downloads
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNNjw-ctYrmynFytA?e=6AUgqp">Windows (22.77 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dZiLP1pS7WSThlcg?e=cdMelK">Linux (35.24 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dXhAmfwdqIH26YLA?e=g4QTML">Web (23.03 Mb)</a></p>
+
+***
+
+### Team
+* [Fernand Veyrier](https://www.linkedin.com/in/fernand-veyrier-26372596/) - Developer Unity3D
+* [Nicolas Constanty](https://fr.linkedin.com/in/nicolas-constanty-653232113) - Developer Unity3D

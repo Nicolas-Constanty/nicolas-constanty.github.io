@@ -20,4 +20,15 @@ tags: ['3D', 'Local/Online Mutliplayer', 'Versus']
 
 ### Controls
 * Move: Left stick
-* Dodge: B
+* Dodge: East Button
+
+***
+
+### Downloads
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dL3woOihdo7HuNGQ?e=JzOqmT">Windows (26.19 Mb)</a></p>
+
+***
+
+### Team
+* [Fernand Veyrier](https://www.linkedin.com/in/fernand-veyrier-26372596/) - Developer Unity3D
+* [Nicolas Constanty](https://fr.linkedin.com/in/nicolas-constanty-653232113) - Developer Unity3D & Artistic direction

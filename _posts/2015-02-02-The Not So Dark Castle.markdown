@@ -13,4 +13,13 @@ Dans ce petit jeu en 2D le joueur doit retrouver la sortie du niveau à l'aide d
 
 ***
 
-### Controls
+### Downloads
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNSjZeqTI85UwFO0Q?e=vikseW">Windows (21.66 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dZiLP1pS7WSThlcg?e=B2WPEi">Linux (34.10 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNTSsYg6PfuTSXH1A?e=VxUzGl">Web (11.09 Mb)</a></p>
+
+***
+
+### Team
+* [Fernand Veyrier](https://www.linkedin.com/in/fernand-veyrier-26372596/) - Developer Unity3D
+* [Nicolas Constanty](https://fr.linkedin.com/in/nicolas-constanty-653232113) - Developer Unity3D

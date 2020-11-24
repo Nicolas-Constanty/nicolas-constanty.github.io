@@ -13,4 +13,11 @@ Plonger dans ce jeu de combat ou chaque joueur contrôle son ragdoll. Chaque rag
 
 ***
 
-### Controls
+### Downloads
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNRyuVsaGPffRsznQ?e=qdfgO2">Windows (43.25 Mb)</a></p>
+
+***
+
+### Team
+* [Fernand Veyrier](https://www.linkedin.com/in/fernand-veyrier-26372596/) - Developer Unity3D
+* [Nicolas Constanty](https://fr.linkedin.com/in/nicolas-constanty-653232113) - Developer Unity3D

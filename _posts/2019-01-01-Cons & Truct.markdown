@@ -25,3 +25,19 @@ Cons & Truct est un jeu de coopération où les joueurs doivent communiquer pour
 * Throw (P1): A / LB
 * Build (P2): A / LB
 * Throw (P2): E / RB
+
+***
+
+### Downloads
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dQK5QFhiQRFD0Frw?e=VhHu03">Windows (67.68 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dO8oSqWLBZ46bqMg?e=PYj4PH">Mac (67.45 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dP1OGaQ0_tHIfPPw?e=YK4A5i">Linux (67.85 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dMzSIHafFP_dfKXw?e=EAoFLH">Web (29.48 Mb)</a></p>
+
+***
+
+### Team
+* [Fernand Veyrier](https://www.linkedin.com/in/fernand-veyrier-26372596/) - Developer Unity3D
+* [Nicolas Constanty](https://fr.linkedin.com/in/nicolas-constanty-653232113) - Developer Unity3D
+* [Quentin Gasparotto](https://www.linkedin.com/in/quentin-gasparotto/?originalSubdomain=fr) - Game Designer
+* [Louise Jandot Dit Danjou]() - Graphist

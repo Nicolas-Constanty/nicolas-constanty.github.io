@@ -21,3 +21,17 @@ Dwarf Fortress est un jeu multijoueurs, jouable jusqu'à 4 joueurs en local. Des
 ### Controls
 * Move: Left stick
 * Interact: South button
+
+***
+
+### Downloads
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfMbT6TRgo5wPUovUw?e=PCJoLb">Windows (235.85 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="">Mac (161.87 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="">Linux (169.60 Mb)</a></p>
+
+***
+
+### Team
+* [Nicolas](https://fr.linkedin.com/in/nicolas-constanty-653232113) - Developer Unity3D & Artistic Direction
+* [Anton Bodin Marty]() - Developer Unity3D & Sounds
+* [Thibaut Delafforest]() - Music

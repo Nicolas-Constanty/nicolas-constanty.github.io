@@ -19,4 +19,13 @@ Le joueur peu aussi récupérer trois étoiles par niveau pour plus de défi.
 
 ***
 
-### Controls
+### Downloads
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5gN_DkGxCgDQgZNuA?e=Zm7xzp">Windows (23.13 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5gMzJ0b6Kr2t9mWpw?e=B0MP4R">Linux (37.14 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5gLZzzSFDIDTiilpw?e=JQuT4b">Mac (36.31 Mb)</a></p>
+
+***
+
+### Team
+* [Fernand Veyrier](https://www.linkedin.com/in/fernand-veyrier-26372596/) - Developer Unity3D
+* [Nicolas Constanty](https://fr.linkedin.com/in/nicolas-constanty-653232113) - Developer Unity3D
