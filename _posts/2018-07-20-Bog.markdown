@@ -2,7 +2,7 @@
 layout: post
 title: Bog
 date: 2018-07-20 15:28:48 +0300
-image: 00_720p.png
+image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
 tags: ['2.5 D', 'Solo', 'Plateformer']

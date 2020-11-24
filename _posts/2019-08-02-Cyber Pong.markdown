@@ -2,7 +2,7 @@
 layout: post
 title: Cyber Pong
 date: 2019-08-02 15:28:48 +0100
-image: 00_720p.png
+image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
 tags: ['Top Down', 'Local Multiplayer', 'Versus']
