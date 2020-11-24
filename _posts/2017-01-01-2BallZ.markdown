@@ -2,7 +2,7 @@
 layout: post
 title: 2BallZ
 date: 2017-01-01 15:28:48 +0300
-image: 00_720p.jpeg
+image: 00_720p.png
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
 tags: ['3D', 'Local/Online Mutliplayer', 'Versus']

@@ -2,7 +2,7 @@
 layout: post
 title: Bailad Muertos
 date: 2016-01-27 15:28:48 +0300
-image: 00_720p.jpeg
+image: 00_720p.png
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
 tags: ['2D', 'Local Multiplayer', 'Versus']

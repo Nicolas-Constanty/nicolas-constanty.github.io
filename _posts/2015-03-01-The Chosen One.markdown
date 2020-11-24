@@ -2,7 +2,7 @@
 layout: post
 title: The Chosen One
 date: 2015-03-01 15:28:48 +0100
-image: 00_720p.jpeg
+image: 00_720p.jpg
 coverSrc: 00.jpg
 thumbnail: 00_432p.jpeg
 tags: ['2D', 'Local Multiplayer', 'Versus', 'Runner']

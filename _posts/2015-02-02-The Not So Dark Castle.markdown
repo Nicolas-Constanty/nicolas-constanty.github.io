@@ -2,7 +2,7 @@
 layout: post
 title: The Not So Dark Castle
 date: 2015-02-02 15:28:48 +0100
-image: 00_720p.jpeg
+image: 00_720p.png
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
 tags: ['2D', 'Solo', 'Puzzle', 'Plateformer']
