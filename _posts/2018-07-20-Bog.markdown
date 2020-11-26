@@ -30,7 +30,7 @@ Bog est un platformer 2.5 style Inside. Le joueur incarne Bog un personnage perd
 ***
 
 ### Downloads
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dQK5QFhiQRFD0Frw?e=VhHu03">Windows (143.83 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5hWI_T5Jbx52_GyQQ">Windows (143.83 Mb)</a></p>
 
 ***
 

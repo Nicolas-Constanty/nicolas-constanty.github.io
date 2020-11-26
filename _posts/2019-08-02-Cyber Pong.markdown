@@ -28,7 +28,7 @@ Cyberpong est un jeux de versus en local, le but est de toucher votre adversaire
 ***
 
 ### Downloads
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfMbT6TRgo5wPUovUw?e=PCJoLb">Windows (83.99 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfMbT6TRgo5wPUovUw">Windows (83.99 Mb)</a></p>
 
 ***
 

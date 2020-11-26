@@ -22,10 +22,10 @@ Cubi est un 'runner' multijoueur qui ce joue jusqu'à quatre joueurs. Chaque par
 ***
 
 ### Downloads
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNJPOxLYz60nfNrRA?e=EhpYoi">Windows (17.35 Mb)</a></p>
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNMLZB8kMJeeGmwAg?e=tJb1SD">Mac (30.53 Mb)</a></p>
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNLBd3DUPWRFQW0Tw?e=vxAN95">Linux (31.36 Mb)</a></p>
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNK0Y_8wlzQJbdm0w?e=Q19xzX">Web (10.80 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNJPOxLYz60nfNrRA">Windows (17.35 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNMLZB8kMJeeGmwAg">Mac (30.53 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNLBd3DUPWRFQW0Tw">Linux (31.36 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNK0Y_8wlzQJbdm0w">Web (10.80 Mb)</a></p>
 
 ***
 

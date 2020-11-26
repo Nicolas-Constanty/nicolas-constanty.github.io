@@ -32,10 +32,10 @@ Cons & Truct est un jeu de coopération où les joueurs doivent communiquer pour
 ***
 
 ### Downloads
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dQK5QFhiQRFD0Frw?e=VhHu03">Windows (67.68 Mb)</a></p>
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dO8oSqWLBZ46bqMg?e=PYj4PH">Mac (67.45 Mb)</a></p>
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dP1OGaQ0_tHIfPPw?e=YK4A5i">Linux (67.85 Mb)</a></p>
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dMzSIHafFP_dfKXw?e=EAoFLH">Web (29.48 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dQK5QFhiQRFD0Frw">Windows (67.68 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dO8oSqWLBZ46bqMg">Mac (67.45 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dP1OGaQ0_tHIfPPw">Linux (67.85 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dMzSIHafFP_dfKXw">Web (29.48 Mb)</a></p>
 
 ***
 

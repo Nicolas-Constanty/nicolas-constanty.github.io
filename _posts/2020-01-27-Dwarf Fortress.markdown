@@ -28,9 +28,9 @@ Dwarf Fortress est un jeu multijoueurs, jouable jusqu'à 4 joueurs en local. Des
 ***
 
 ### Downloads
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfMbT6TRgo5wPUovUw?e=PCJoLb">Windows (235.85 Mb)</a></p>
-<p style="text-align: center;margin: 0;"><a href="">Mac (161.87 Mb)</a></p>
-<p style="text-align: center;margin: 0;"><a href="">Linux (169.60 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfpbmWHNs5JH5J3zFg?e=lxOCgq">Windows (235.85 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfMZb67aP4Q5WbUnBQ?e=EGcjiA">Mac (161.87 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfMYp9ScDX2PSPsFBA?e=9wfXK5">Linux (169.60 Mb)</a></p>
 
 ***
 

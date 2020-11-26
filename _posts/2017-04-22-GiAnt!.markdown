@@ -12,7 +12,7 @@ websiteUrl: https://ldjam.com/events/ludum-dare/38/games
 ---
 In this game, you are a heartless kid controlling ants path with your magnifying glass, try not to kill them all!
 
-Dans ce jeu, vous êtes un enfant sans cœur contrôlant le chemin des fourmis avec votre loupe, essayez de ne pas les tuer tous!
+Dans ce jeu, vous êtes un enfant sans cœur contrôlant le chemin des fourmis avec votre loupe. Essayez de ne pas toute les tuer!
 
 ***
 
@@ -27,7 +27,7 @@ Dans ce jeu, vous êtes un enfant sans cœur contrôlant le chemin des fourmis a
 ***
 
 ### Downloads
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNP8fJX0_XcK3PE1g?e=Kef0UU">Windows (17.89 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5hQU2R_y7kRZVgYrw?e=WPreee">Windows (17.89 Mb)</a></p>
 
 ***
 
