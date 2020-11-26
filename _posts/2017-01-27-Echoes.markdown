@@ -1,0 +1,42 @@
+---
+layout: post
+title: Echoes
+date: 2017-01-27 15:28:48 +0300
+image: 00_720p.jpeg
+coverSrc: 00.png
+thumbnail: 00_432p.jpeg
+tags: ['2D', 'Solo', 'Puzzle/Plateformer']
+event: Global Game Jam 2017
+websiteName: Global Game Jam 2017
+websiteUrl: https://globalgamejam.org/2017/games/echoes-0
+---
+Echoes is a puzzle game in which the player must go from present to past to advance in the plot.
+
+Echoes est un jeu de réflexion dans lequel le joueur doit passer du présent au passé pour avancer dans l'intrigue.
+
+***
+
+### Gameplay
+<iframe src="https://www.youtube.com/embed/Mg0EeqVooE8" frameborder="0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
+### Controls
+* Move: Left & Right arrows
+* Jump: Space
+* Interaction: E
+
+***
+
+### Downloads
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNIJ3RDmjZdNRJYoQ?e=ma15pI">Windows (48.62 Mb)</a></p>
+
+***
+
+### Team
+* [Fernand Veyrier](https://www.linkedin.com/in/fernand-veyrier-26372596/) - Developer Unity3D
+* Ilona-Marie Strady - Developer Unity3D
+* [Nicolas Constanty](https://fr.linkedin.com/in/nicolas-constanty-653232113) - Developer Unity3D & Artistic direction
+* [Quentin Gasparotto](https://www.linkedin.com/in/quentin-gasparotto/) - Developer Unity3D
+* [Jérémie Tauziede](https://www.linkedin.com/in/jeremie-tauziede-4589a9110/) - Artistic direction
+* [Sarah Simpson](https://www.linkedin.com/in/sarah-simpson-5749a8110/) - Artistic direction

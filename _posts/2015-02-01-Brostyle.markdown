@@ -1,0 +1,26 @@
+---
+layout: post
+title: Brostyle
+date: 2015-02-01 15:28:48 +0300
+image: 00_720p.jpeg
+coverSrc: 00.png
+thumbnail: 00_432p.jpeg
+tags: ['2D', 'Solo', 'Plateformer']
+event: Game Dev Camp (Hostile)
+---
+Brostyle is a game where the player doesn't have a second to spare. The goal is to kill as many enemies in order to get the highest score possible.
+
+Brostyle est un jeu où le joueur n'as pas une seconde pour lui. Le but et de tuer le plus d'ennemies afin de faire le plus grand score possible.
+
+***
+
+### Downloads
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5hTDUP2Q4VY0itqBA?e=l2pOv9">Windows (121.90 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dhIsI4kKd4uBrUrg?e=sCL5QX">Linux (134.29 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5hU9dMZK7jYkFRNFw?e=QzWGQ9">Web (97.06 Mb)</a></p>
+
+***
+
+### Team
+* [Fernand Veyrier](https://www.linkedin.com/in/fernand-veyrier-26372596/) - Developer Unity3D
+* [Nicolas Constanty](https://fr.linkedin.com/in/nicolas-constanty-653232113) - Developer Unity3D
