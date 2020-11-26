@@ -11,7 +11,7 @@ author:
   name: Nicolas Constanty
   image: nico.png
   say-hello: Hello, I’m <strong>Nicolas Constanty</strong>
-  bio: Game Developer. Loves <a href="#">games</a> & riding his bicycle.
+  bio: Game & Software Developer. Passionnate about programming and game creation, I like to join events like Game Jam or Hackathon to learn new things.<p class="hero__subtitle">I also worked on some machine learning projects, like DNAI which is a visual scripting tool focused on AI creation (behaviour, and ml).</p>
 
 
 #-------------------------------

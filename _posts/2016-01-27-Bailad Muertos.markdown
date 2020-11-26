@@ -17,7 +17,7 @@ Plonger dans ce jeu de combat ou chaque joueur contrôle son ragdoll. Chaque rag
 ***
 
 ### Downloads
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNRyuVsaGPffRsznQ?e=qdfgO2">Windows (43.25 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgmfNRyuVsaGPffRsznQ">Windows (43.25 Mb)</a></p>
 
 ***
 

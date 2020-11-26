@@ -22,9 +22,9 @@ Dans ce "point and clic" le joueur incarne une mamie tueuse de scout. Le but du 
 ***
 
 ### Downloads
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5gIMmsSAtIZTg_YAw?e=iaHx1n">Windows (34.89 Mb)</a></p>
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5gKdOQoSZ_6IIvGTA?e=TQ9s5V">Linux (47.26 Mb)</a></p>
-<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5gEXAOXglHicsccmQ?e=jivSgg">Web (14.83 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dfxNaDONkgksxipg?e=2kSobm">Windows (34.89 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dW3SfCPezkBwZ33Q">Linux (47.26 Mb)</a></p>
+<p style="text-align: center;margin: 0;"><a href="https://1drv.ms/u/s!AoYk8X2I2PMgg5dTI7L0W6Gr8fZZYg">Web (14.83 Mb)</a></p>
 
 ***
 

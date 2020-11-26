@@ -5,9 +5,14 @@ permalink: /about/
 #image: 01.jpg
 ---
 
-<h2 style="text-align:center;">EN</h2>
+<h3 style="text-align: center;">Digital version</h3>
+<p style="text-align: center;"><a href="https://1drv.ms/b/s!AoYk8X2I2PMgg5l29ivONxX4YeIdcw">CV_en.pdf</a></p>
+<p style="text-align: center;"><a href="https://1drv.ms/b/s!AoYk8X2I2PMgg5l3bi-KygMYGfCzKQ">CV_fr.pdf</a></p>
+<h3 style="text-align: center;">Printable version</h3>
+<p style="text-align: center;"><a href="https://1drv.ms/b/s!AoYk8X2I2PMgg5l0Z-HgHLG5aELslg">CV_en.pdf</a></p>
+<p style="text-align: center;"><a href="https://1drv.ms/b/s!AoYk8X2I2PMgg5l1xaeY_H6lndgQVA">CV_fr.pdf</a></p>
 
-*** 
+<!-- *** 
 
 ### EXPERIENCES
 
@@ -136,4 +141,4 @@ Ex : Global Game Jam 2019, Cons & Truct, 2D Coopération
 ### Langues
 
 * Français : maternelle
-* Anglais : professionnel
+* Anglais : professionnel -->
