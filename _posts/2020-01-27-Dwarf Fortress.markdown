@@ -35,6 +35,6 @@ Dwarf Fortress est un jeu multijoueurs, jouable jusqu'à 4 joueurs en local. Des
 ***
 
 ### Team
-* [Nicolas](https://fr.linkedin.com/in/nicolas-constanty-653232113) - Developer Unity3D & Artistic Direction
+* [Nicolas Constanty](https://fr.linkedin.com/in/nicolas-constanty-653232113) - Developer Unity3D & Artistic Direction
 * Anton Bodin Marty - Developer Unity3D & Sounds
 * Thibaut Delafforest - Music
