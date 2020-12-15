@@ -1,3 +1,6 @@
+I used Zolan theme for my portfolio, I modified it a bit but all credit to him, that save me a lot of time :)
+Zolan's readme below.
+
 Zolan - Modern & Minimal Theme for Jekyll
 ======
 Zolan is a minimal blog theme for Jekyll.
