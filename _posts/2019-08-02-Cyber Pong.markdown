@@ -5,7 +5,7 @@ date: 2019-08-02 15:28:48 +0100
 image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
-tags: ['Top Down', 'Local Multiplayer', 'Versus']
+tags: ['Top-Down', 'Local', 'Multiplayer', 'Versus']
 event: Crée le jeu
 websiteName: itch.io - Crée le jeu
 websiteUrl: https://babiole.itch.io/cyberpong

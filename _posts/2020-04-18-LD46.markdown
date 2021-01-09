@@ -5,7 +5,7 @@ date: 2020-04-18 15:28:48 +0100
 image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
-tags: ['Cooperation', 'Online', 'Point & Click']
+tags: ['Co-op', 'Online', 'Multiplayer', 'Point&Click']
 event: Ludum Dare 46
 websiteName: Ludum Dare 46
 websiteUrl: https://ldjam.com/events/ludum-dare/46

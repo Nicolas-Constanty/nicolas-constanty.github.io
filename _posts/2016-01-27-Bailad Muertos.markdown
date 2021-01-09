@@ -5,7 +5,7 @@ date: 2016-01-27 15:28:48 +0300
 image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
-tags: ['2D', 'Local Multiplayer', 'Versus']
+tags: ['2D', 'Local', 'Multiplayer', 'Versus']
 event: Global Game Jam 2016
 websiteName: Global Game Jam 2016
 websiteUrl: https://globalgamejam.org/2016/games/%C2%A1bailad-muertos

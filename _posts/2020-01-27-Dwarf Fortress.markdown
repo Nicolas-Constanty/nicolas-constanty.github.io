@@ -5,7 +5,7 @@ date: 2020-01-27 15:28:48 +0100
 image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
-tags: ['Top Down', 'Local Multiplayer', 'Cooperative']
+tags: ['Top-Down', 'Local', 'Multiplayer', 'Co-op']
 event: Global Game Jam 2020
 websiteName: Global Game Jam 2020
 websiteUrl: https://globalgamejam.org/2020/games/dwarf-fortress-0

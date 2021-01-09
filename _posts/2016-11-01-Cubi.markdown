@@ -5,7 +5,7 @@ date: 2016-11-01 15:28:48 +0300
 image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
-tags: ['2D', 'Local Mutliplayer (4 Players)']
+tags: ['2D', 'Local', 'Multiplayer', 'Runner']
 event: Bordeaux Jam 3
 ---
 Cubi is a multiplayer runner who plays up to four players. Each participant can collect bonuses to turn the map, shoot a missile or protect themselves by closing the hatch. The player must jump towards the center to avoid obstacles, as an example the top player uses the down arrow to jump.

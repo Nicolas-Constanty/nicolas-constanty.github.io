@@ -5,7 +5,7 @@ date: 2015-08-21 15:28:48 +0100
 image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
-tags: ['2D', 'Versus', 'Plateformer']
+tags: ['2D', 'Local', 'Multiplayer', 'Versus', 'Platformer']
 event: Ludum Dare 33
 websiteName: Ludum Dare 33
 websiteUrl: http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=56369

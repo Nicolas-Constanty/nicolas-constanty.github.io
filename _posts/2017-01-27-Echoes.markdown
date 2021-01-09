@@ -5,7 +5,7 @@ date: 2017-01-27 15:28:48 +0300
 image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
-tags: ['2D', 'Solo', 'Puzzle/Plateformer']
+tags: ['2D', 'Solo', 'Puzzle', 'Platformer']
 event: Global Game Jam 2017
 websiteName: Global Game Jam 2017
 websiteUrl: https://globalgamejam.org/2017/games/echoes-0

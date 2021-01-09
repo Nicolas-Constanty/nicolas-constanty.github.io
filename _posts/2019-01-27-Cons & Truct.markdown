@@ -5,7 +5,7 @@ date: 2019-01-27 15:28:48 +0300
 image: CaptureCons&Truct_720p.jpeg
 coverSrc: CaptureCons&Truct.png
 thumbnail: CaptureCons&Truct_432p.jpeg
-tags: ['2D', 'Coop', 'Arcade']
+tags: ['2D', 'Co-op', 'Local', 'Multiplayer']
 event: Global Game Jam 2019
 websiteName: Global Game Jam 2019
 websiteUrl: https://globalgamejam.org/2019/games/cons-truct

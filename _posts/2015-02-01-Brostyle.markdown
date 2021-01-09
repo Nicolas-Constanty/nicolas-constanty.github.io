@@ -5,7 +5,7 @@ date: 2015-02-01 15:28:48 +0300
 image: 00_720p.jpeg
 coverSrc: 00.png
 thumbnail: 00_432p.jpeg
-tags: ['2D', 'Solo', 'Plateformer']
+tags: ['2D', 'Solo', 'Platformer']
 event: Game Dev Camp (Hostile)
 ---
 Brostyle is a game where the player doesn't have a second to spare. The goal is to kill as many enemies in order to get the highest score possible.
